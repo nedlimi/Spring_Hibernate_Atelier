@@ -1,0 +1,6 @@
+com\app\service\EtudiantService.class
+com\app\controller\EtudiantController.class
+com\app\dao\EtudiantDaoImpl.class
+com\app\entitie\Etudiant.class
+com\app\dao\EtudiantDao.class
+com\app\service\EtudiantServiceImp.class
